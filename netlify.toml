@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/marketplace"
+  publish = "dist/marketplace/browser"
   command = "ng build --configuration production"
 
 [[redirects]]
